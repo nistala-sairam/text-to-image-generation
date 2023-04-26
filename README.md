@@ -1,1 +1,2 @@
-# text-to-image-generation
+# Name : Venkata Surya Sai Ram Nistala
+# 700: 700747147
